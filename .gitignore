@@ -1,4 +1,4 @@
 bin/mkbootimg
 bin/unmkbootimg
 
-tmp/*
+tmp/boot.img-*
